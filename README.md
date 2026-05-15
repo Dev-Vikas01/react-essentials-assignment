@@ -24,7 +24,7 @@ portfolio-card
 
 ### Live Deployment
 
-Add your portfolio-card deployment link here.
+[Add your portfolio-card deployment link here.](https://react-essentials-assignment-new.vercel.app/)
 
 ---
 
@@ -49,7 +49,7 @@ movie-database-mini-application
 
 ### Live Deployment
 
-Add your movie-database-mini-application deployment link here.
+[Add your movie-database-mini-application deployment link here.](https://react-essentials-assignment-new1.vercel.app/)
 
 ---
 
